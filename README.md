@@ -1,8 +1,8 @@
-# CTEC 227 - Lab 1
+# CTEC 227 - Coding Assignment 3
 
 ## Details
 
-This lab will have you build four basic PHP pages. 
+This assignment will have you build four basic PHP pages. 
 
 Each page **must have proper HTML** and not just PHP code. No CSS is required for this lab.
 
